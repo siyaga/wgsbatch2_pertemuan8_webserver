@@ -1,0 +1,11 @@
+{
+  "name": "wgsbatch2_pertemuan8_webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi Riyanto",
+  "license": "ISC"
+}
